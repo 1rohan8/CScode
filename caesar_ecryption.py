@@ -17,7 +17,7 @@ def encrypt(text,s):
  
 #check the above function
 text = "HelloRamanujan"
-s = 7
+s = 3
 print ("Text  : " + text)
 print ("Shift : " + str(s))
 print ("Cipher: " + encrypt(text,s))
