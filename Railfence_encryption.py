@@ -40,4 +40,4 @@ def encryptRailFence(text, key):
      
 # Driver code
 if __name__ == "__main__":
-    print(encryptRailFence("hackerman", 3))
+    print(encryptRailFence("Helloramanujan", 3))
